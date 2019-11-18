@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Knight
-Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade
+Theme Name: Rapid
+Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
