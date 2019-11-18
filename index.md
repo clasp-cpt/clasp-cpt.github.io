@@ -1,33 +1,16 @@
-## CLASP
+## Parameterizing the effects of sub-grid land heterogeneity on the atmospheric boundary layer and convection
 
-### Markdown
+### Motivation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In existing climate models, simulated sub-grid heterogeneous states and fluxes over land are mostly disconnected from sub-grid parameterizations of the atmosphere. This is a recognized deficiency given the known role of multi-scale land heterogeneity in atmospheric processes including convection, rainfall initiation, and mesoscale circulations. 
 
-```markdown
-Syntax highlighted code block
+### Objective 
 
-# Header 1
-## Header 2
-### Header 3
+Parameterize the heterogeneous sub-grid exchange between the land and atmosphere and characterize its implications for surface climate, variability, and extremes
 
-- Bulleted
-- List
+### Tasks
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clasp-cpt/clasp-cpt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Implement a novel interaction scheme between the heterogeneous land and atmosphere in the DOE/E3SM, NOAA/ESM4, NASA/GEOS, and NCAR/CESM2 Earth system/climate models.
+* Leverage and enhance coupling metrics to evaluate the modeling of heterogeneous land-atmosphere interactions.
+* Evaluate and improve the parameterization using coupled land model/large eddy simulations and observations.
+* Perform global simulations to gain understanding of the role of land spatial organization in the climate system.
